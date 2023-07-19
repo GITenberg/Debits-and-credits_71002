@@ -1,0 +1,44 @@
+_repo: Debits-and-credits_71002
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, R. (Rudyard)
+    - Kipling, Joseph Rudyard
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: https://en.wikipedia.org/wiki/Rudyard_Kipling
+description: 'Wikipedia: https://en.wikipedia.org/wiki/Debits_and_Credits_(book)'
+gutenberg_issued: '2023-06-20'
+identifiers:
+  gutenberg: '71002'
+  lccn: '26016150'
+language: en
+pgterms:marc904: https://archive.org/details/debitscredits0000kipl_r0x3/page/n5/mode/2up
+pgterms:marc905: 20220120050526kipling
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Tim Lindell, SF2001, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited States :$bDoubleday, Page & Company, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcsh 'Short stories, English'
+- !lcsh 'English fiction -- 20th century'
+- !lcsh 'English poetry -- 20th century'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: 'Includes the stories: The enemies to each other -- Sea constables:
+  a tale of ''15 -- "In the interests of the Brethren" -- The United idolaters --
+  The wish house -- The Janeites -- The prophet and the country -- The bull that thought
+  -- A Madonna of the trenches -- The propagation of knowledge -- A friend of the
+  family -- On the gate: a tale of ''16 -- The eye of Allah -- The gardener.'
+title: Debits and credits
+url: http://www.gutenberg.org/ebooks/71002
